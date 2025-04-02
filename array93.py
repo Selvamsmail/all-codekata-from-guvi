@@ -15,4 +15,4 @@ def isalternating(val,n):
 
 n = int(input())
 a = list(map(int,input().split()))
-print(isalternating(a,n))
+print(isalternating(a,n)) 
